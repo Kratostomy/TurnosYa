@@ -1,2 +1,2 @@
 # TurnosYa
-Una aplicación para sacar y ver turnos
+Una aplicación anotar turnos
